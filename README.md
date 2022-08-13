@@ -1,6 +1,6 @@
 # grind75-rs
 
-Practicing using Rust using the 75 most common interview problems ([Grind 75](https://www.techinterviewhandbook.org/grind75)).
+Practicing Rust using the 75 most common interview problems ([Grind 75](https://www.techinterviewhandbook.org/grind75)).
 
 ## Usage
 
